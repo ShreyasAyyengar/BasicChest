@@ -1,0 +1,10 @@
+name: BasicChest
+version: '${project.version}'
+main: me.shreyasayyengar.basicchest.ChestPlugin
+api-version: 1.18
+prefix: ChestPlugin
+authors: [ Shreyas Ayyengar, BeyazPolis ]
+description: DevRoom Trial Plugin Application
+
+commands:
+  chest:
